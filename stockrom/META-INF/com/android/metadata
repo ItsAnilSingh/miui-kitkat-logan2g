@@ -1,0 +1,3 @@
+post-build=samsung/logan2gxx/logan2g:4.4.4/KTU84Q/S7262CM110V2:userdebug/test-keys
+post-timestamp=1495457450
+pre-device=logan2g
